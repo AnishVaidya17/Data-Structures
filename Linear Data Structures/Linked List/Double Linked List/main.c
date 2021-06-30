@@ -65,6 +65,9 @@ void prepend()
 }  //prepend ends
 
 
+
+
+
 int length()                                                   //for length of list
 {
    struct node* temp = root;
